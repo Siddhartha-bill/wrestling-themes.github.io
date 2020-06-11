@@ -1,0 +1,11 @@
+h1{color: silver;}
+
+	body{
+	background-image: url("wwe logo.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+ 	background-attachment: fixed;
+}
+p{color: white;}
+button {background-color: maroon;}
+a{color: white;}
